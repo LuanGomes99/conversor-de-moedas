@@ -1,4 +1,4 @@
-# imersao-dev
+# Conversor de Moedas
 # Imersão Dev 2023 - Alura - **Conversor de Moedas**
 
 <p align="center">
