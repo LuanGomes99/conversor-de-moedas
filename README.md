@@ -1,5 +1,5 @@
 # Conversor de Moedas
-# Imersão Dev 2023 - Alura - **Conversor de Moedas**
+# Imersão Dev 2023 - **Conversor de Moedas**
 
 <p align="center">
   <a href="[https://www.youtube.com/watch?v=0sTfIZvjYJk&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=2](https://codepen.io/LGomess/full/xxJJNdV)">
