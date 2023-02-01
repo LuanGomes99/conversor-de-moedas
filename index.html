@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
+  <title>Conversor de Moedas</title>
+</head>
+<body>
+  <div class="conversor">
+   <h1>Conversor de Moedas</h1>
+  <p class="container">Converta moedas rapidamente com o conversor de moedas <a href="https://www.alura.com.br/" target="_blank"><span id="imersao-dev">imersão <span id="dev">dev<span id="ifen">_</span></a></span></span></p>
+  <div class="valores">
+    <div class="seletorMoeda">
+  <select name="moedasde" id="moedasde">
+    <option value="de">Converter de</option>
+    <option value="USD">Dolar</option>
+    <option value="BRL">Real</option>
+    <option value="EUR">Euro</option>
+  </select>
+  
+   <select name="moedaspara" id="moedaspara">
+    <option value="para">Para</option>
+    <option value="USD">Dolar</option>
+    <option value="BRL">Real</option>
+    <option value="EUR">Euro</option>
+  </select>
+  </div>
+    <label for="converter">
+      <input type="number" id="converter">
+   </label>
+  <div id="resultado"><div id="value">VALOR: <span class="moedaSimbolo"></span><span id="reais"></span></div></div>
+    
+  </div>
+  
+  </div>
+<script src="script.js"></script>
+</body>
+</html>
