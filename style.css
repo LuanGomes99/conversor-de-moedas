@@ -76,11 +76,12 @@ p {
 }
 
 #imersao-dev {
-  color: #000 ;
+  color: #0a6a77;
+  font-weight: bold;
 }
 
 #dev {
-  background: #0b857b;
+  background: #209090;
   padding: 0 5px;
 }
 
