@@ -8,7 +8,7 @@ rgba(22,136,124) 85%);
   display: grid;
   align-items: center;
   height: 90vh;
-  animation: trocarCor 10s ease-in-out infinite ;
+  animation: trocarCor 10s ease-in-out infinite;
 }
 
 label {
