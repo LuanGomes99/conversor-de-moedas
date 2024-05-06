@@ -4,7 +4,7 @@ O **Conversor de Moedas** é um projeto criado na **Imersão Dev da Alura**.
 
 <p align="center">
   <a href="https://codepen.io/LGomess/full/xxJJNdV">
-    <img src="https://cdn.discordapp.com/attachments/990296596849782804/1071597654615789608/img-conversor-de-moedas.jpg" width="550">
+    <img src="https://cdn.discordapp.com/attachments/990296596849782804/1071597654615789608/img-conversor-de-moedas.jpg?ex=6638d5d6&is=66378456&hm=b3c6c1ed9ee2f5ef4fed651f18daffd4a2724bd7640ad5053d7ac844b545091d&" width="550">
   </a>
 </p>
 
